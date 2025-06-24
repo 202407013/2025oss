@@ -2,6 +2,8 @@
 #include "sub.h"
 #include <stdio.h>
 
+
+#include <iostream>
 int dive(int x, int y)
 {
 	int cnt = 0;
