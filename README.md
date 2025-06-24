@@ -40,40 +40,40 @@
 ### 1.코드 및 병합 과정 스크린샷
 최승현팀장 calc.cpp, add.cpp, sub.cpp 수정 이미지와 calc.cpp, add.cpp, sub.cpp  
 
-![choi 승현 add파일 수정](https://github.com/user-attachments/assets/581451d6-1961-4d6f-9eac-b9e1c4a5b38f)  
+![choi 승현 add파일 수정](./images/choi.승현%20add파일%20수정.png)  
 
-![choi 승현 sub파일 수정](https://github.com/user-attachments/assets/116e60df-92e9-4cc7-8244-63c8b282f0ce)  
+![choi 승현 sub파일 수정](./images/choi.승현%20sub파일%20수정.png )  
 
-![choi 승현 커밋 내용](https://github.com/user-attachments/assets/9107a946-8f1e-41b1-aa79-f3f544f0ca7b)  
+![choi 승현 커밋 내용](./images/choi.승현%20커밋%20내용.png)  
 
 
 조영록팀원 dive.cpp 수정 이미지와 dive.cpp커밋한 내용  
 
-![div영록 커밋 로그 jpg](https://github.com/user-attachments/assets/84fdb931-4636-4c00-9ec5-42222d77f000)  
+![div영록 커밋 로그 jpg](./images/div영록%20커밋%20로그.jpg.png )  
 
-![영록div코드](https://github.com/user-attachments/assets/70c62e55-48cc-46c3-bcab-e52bdf552e0b)
+![영록div코드](./images/영록div코드.png)
 
 김용현팀원 mul.cpp, mod.cpp 수정 이미지와 mul.cpp, mod.cpp커밋한 내용  
 
-![kim mul수정](https://github.com/user-attachments/assets/bf4375cd-5aa9-4596-b9ad-48c145078c84)  
+![kim mul수정](./images/kim.mul수정.png)  
 
-![kim 수정코드 jpg](https://github.com/user-attachments/assets/fddffe68-fd3d-4af7-8ced-b75ee0024d90)  
+![kim 수정코드 jpg](./images/kim.수정코드.jpg.png)  
 
-![kim 깃 커밋 로그](https://github.com/user-attachments/assets/e403cf0d-b864-4cef-96c7-05ec3ca86389)  
+![kim 깃 커밋 로그](./images/kim.깃%20커밋%20로그.png)  
 
 
 
 main과 dev/a브랜치 충돌수정 이미지
-![choi 승현 main과 a병합](https://github.com/user-attachments/assets/a71d80ec-4936-4d36-81aa-a44df72907fe)
+![choi 승현 main과 a병합](./images/choi.승현%20main과%20a병합.png)
 
 main과 dev/c브랜치 충돌수정 이미지
-![choi 승현 브랜치c](https://github.com/user-attachments/assets/a24e348f-438d-4f09-9924-0f4dae6fc950)
+![choi 승현 브랜치c](./images/choi.승현%20브랜치c.png)
 
 git flow 이미지 사진  
-![gitflow](https://github.com/user-attachments/assets/1c5e94d9-7b64-49cc-a8f1-dec9a8996e37)
+![gitflow](./images/gitflow.png)
 
 계산기코드 출력 화면  
 
-![계산기 코드](https://github.com/user-attachments/assets/4a7a87f4-defb-4685-aa3d-79f539f1d2af)
+![계산기 코드](./images/계산기%20코드.png)
 
 
