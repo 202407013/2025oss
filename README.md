@@ -26,7 +26,7 @@
  
 > 4. `dev/c` 브랜치 병합 중 충돌 발생
  
-> 5. `dev/c`의 내용을 수정하여 **rebase 병합**
+> 5. `dev/c`의 내용을 수정하여 **fast-forward 병합**
  
 > 6. 정상 병합 확인 후 실행 및 테스트
  
@@ -63,10 +63,10 @@
 
 
 
-main과 dev/a브랜치 병합 이미지
+main과 dev/a브랜치 충돌수정 이미지
 ![choi 승현 main과 a병합](https://github.com/user-attachments/assets/a71d80ec-4936-4d36-81aa-a44df72907fe)
 
-main과 dev/c브랜치 병합 이미지
+main과 dev/c브랜치 충돌수정 이미지
 ![choi 승현 브랜치c](https://github.com/user-attachments/assets/a24e348f-438d-4f09-9924-0f4dae6fc950)
 
 git flow 이미지 사진  
